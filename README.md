@@ -8,8 +8,8 @@ A web app for UK energy traders to view day-ahead wind generation forecasts agai
 
 ## Live App
 
-- **Frontend:** https://kjhwr-frontend.onrender.com
-- **Backend API:** https://kjhwr-backend.onrender.com
+- **Frontend:** https://frontend-swart-seven-wcyz5fbnly.vercel.app/
+- **Backend API:** https://kjhwr-3nh9.onrender.com
 
 > Note: Render free tier spins down after 15 min of inactivity. First load may take ~30 seconds.
 
